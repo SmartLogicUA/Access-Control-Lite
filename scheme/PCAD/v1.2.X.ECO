@@ -1,0 +1,5 @@
+; P-CAD 2006 PCB Version 19.00.6667 [H:\Researches\Battle\NEW\LOCK_LITE\V 1.2.X\PCAD\V1.2.X.pcb]--Wed Dec 09 16:35:45 2009
+CompAttrModify "R18" "Value" "3k3" "" "string" ""
+CompAttrModify "R11" "Value" "10E" "" "string" ""
+; P-CAD 2006 PCB Version 19.00.6667 [H:\Researches\Battle\NEW\LOCK_LITE\V 1.2.X\PCAD\V1.2.X.pcb]--Wed Dec 09 16:38:08 2009
+CompAttrModify "R6" "Value" "10E" "" "string" ""
